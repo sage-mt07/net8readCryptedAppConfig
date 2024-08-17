@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadCryptedConfig", "ReadCryptedConfig.csproj", "{55406A4F-28C8-4684-B39C-4D2FF5501AA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecryptAppConfig", "..\DecryptAppConfig\DecryptAppConfig.csproj", "{FD5DC8B8-116A-495A-A382-8E5E5E033983}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55406A4F-28C8-4684-B39C-4D2FF5501AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55406A4F-28C8-4684-B39C-4D2FF5501AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55406A4F-28C8-4684-B39C-4D2FF5501AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55406A4F-28C8-4684-B39C-4D2FF5501AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5DC8B8-116A-495A-A382-8E5E5E033983}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5DC8B8-116A-495A-A382-8E5E5E033983}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5DC8B8-116A-495A-A382-8E5E5E033983}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5DC8B8-116A-495A-A382-8E5E5E033983}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0222A39A-97DC-4295-983F-94CC1CE18412}
+	EndGlobalSection
+EndGlobal
